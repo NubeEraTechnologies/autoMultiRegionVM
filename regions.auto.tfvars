@@ -1,0 +1,20 @@
+vm_regions = [
+    "southafricanorth",
+    "japanwest",
+    "koreacentral",
+    "malaysiawest",
+    "newzealandnorth",
+    "canadacentral",
+    "austriaeast",
+    "belgiumcentral",
+    "francecentral",
+    "italynorth",
+    "norwayeast",
+    "polandcentral",
+    "spaincentral",
+    "switzerlandnorth",
+    "mexicocentral",
+    "chilecentral",
+    "uaenorth",
+    "chilecentral"
+]
